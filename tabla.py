@@ -10,7 +10,7 @@ expander_bar = st.expander("**Más sobre este trabajo**")
 expander_bar.markdown("""
 *:orange[Información:]* Este ejercicio práctico permite consolidar lo aprendido en Diseños de procesos ETL en Data Science, para ello, se realizó un web scrapping a la URL https://es.investing.com/crypto/bitcoin, para extraer la información de las cryptos.
 
-*:orange[Integrantes:]* :blue[GRUPO 6] robert   
+*:orange[Integrantes:]* :blue[GRUPO 6] Robert Granda, Francisco García, Fabián Quito y Gabriel Salazar.   
 
 """)
 
