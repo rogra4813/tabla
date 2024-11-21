@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import csv
+
 
 st.text("PRUEBA DE CSV")
 csv_url = "https://github.com/rogra4813/tabla/blob/main/tabla_final.csv"  # Reemplaza con la URL de tu archivo CSV
